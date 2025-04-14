@@ -19,7 +19,7 @@ This is a Node.js app for the HubSpot Academy **Integrating With HubSpot I: Foun
 
 🔗 https://app.hubspot.com/contacts/141521529/objects/pup/views/all/list  
 
-> Replace `141521529` with your own HubSpot test account ID if it's different.
+> Update the account ID if needed.
 
 ## Setup Instructions
 
