@@ -27,10 +27,12 @@ This is a Node.js app for the HubSpot Academy **Integrating With HubSpot I: Foun
 2. Run `npm install`  
 3. Create a `.env` file in the root:
 
-HUBSPOT_ACCESS_TOKEN=private-app-token n/
-PORT=3000
+    ```
+    HUBSPOT_ACCESS_TOKEN=private-app-token
+    PORT=3000
+    ```
 
-> Replace `private-app-token` with the actual token from your “Yasaman’s Practicum Private App”.
+    > Replace `private-app-token` with the actual token from your “Yasaman’s Practicum Private App”.
 
 4. Start the app: `node index.js`  
 5. Visit: `http://localhost:3000`
